@@ -30,3 +30,17 @@ a {
 .list-style-none {
 list-style: none;
 }
+
+
+.d-flex {
+    display: flex;
+}
+
+
+.a-button {
+display: inline-block;
+background-color: #FFF;
+color: black;
+border-radius: 15px;
+padding: 10px 15px ;
+}
